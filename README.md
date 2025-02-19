@@ -11,3 +11,4 @@
 - [Spiral Matrix](./07-Spiral_matrix.py)
 - [Number of island](./08-Number_of_Island.py)
 - [Best Time to Buy and Sell Stock](./09-Best_time_sell_stock.py)
+- [Squares of a sorted Array](./10-Square-sorted_array.py)
