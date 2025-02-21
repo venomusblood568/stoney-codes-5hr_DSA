@@ -12,3 +12,7 @@
 - [Number of island](./08-Number_of_Island.py)
 - [Best Time to Buy and Sell Stock](./09-Best_time_sell_stock.py)
 - [Squares of a sorted Array](./10-Square-sorted_array.py)
+- [Longest Mountain in Array](./11-Longest_mountain_Array.py)
+- [Contains Duplicate II](12-Contains_duplicates2.py)
+- [Minimum Absolute Difference](./13-Minimum_Absolute_diff.py)
+- [Minimum Size Subarray Sum](./14-Minimum_size_subarray_sum.py)
