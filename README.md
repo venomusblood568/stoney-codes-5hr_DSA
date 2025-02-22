@@ -16,3 +16,5 @@
 - [Contains Duplicate II](12-Contains_duplicates2.py)
 - [Minimum Absolute Difference](./13-Minimum_Absolute_diff.py)
 - [Minimum Size Subarray Sum](./14-Minimum_size_subarray_sum.py)
+- [Single Number](./15-Single_number.py)
+- [Coin Change](./16-Coin_change.py)
