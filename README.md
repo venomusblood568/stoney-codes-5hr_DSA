@@ -20,3 +20,5 @@
 - [Coin Change](./16-Coin_change.py)
 - [Climbing Stairs](./17-climbing_stairs.py)
 - [Max Subarray](./18-maximum_subarray.py)
+- [Counting Bits](./19-Counting_bits.py)
+- [Range Sum Query -Immutable](./20-Range_sum_query.py)
