@@ -25,3 +25,4 @@
 - [Letter Case permutation](./21-letterCase.py)
 - [Subsets](./22-Subsets.py)
 - [Combinations](./23-Combinations.py)
+- [Permutation](./24-permutation.py)
