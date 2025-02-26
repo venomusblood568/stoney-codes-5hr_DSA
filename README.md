@@ -23,3 +23,4 @@
 - [Counting Bits](./19-Counting_bits.py)
 - [Range Sum Query -Immutable](./20-Range_sum_query.py)
 - [Letter Case permutation](./21-letterCase.py)
+- [Subsets](./22-Subsets.py)
