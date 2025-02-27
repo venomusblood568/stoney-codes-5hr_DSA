@@ -28,4 +28,5 @@
 - [Permutation](./24-permutation.py)
 - [Middle of the linked List](./25-Middle_ll.py)
 - [Linked List Cycle](./26-Cycle_ll.py)
-- [Revversed Linked List](./Q27-Reversed_ll.py)
+- [Reversed Linked List](./27-Reversed_ll.py)
+- [Remove Linked List Element](./28-Remove_ll_element.py)
