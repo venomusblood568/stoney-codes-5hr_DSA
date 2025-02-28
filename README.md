@@ -30,3 +30,5 @@
 - [Linked List Cycle](./26-Cycle_ll.py)
 - [Reversed Linked List](./27-Reversed_ll.py)
 - [Remove Linked List Element](./28-Remove_ll_element.py)
+- [Reverse Linked List 2]
+- [Palindrome linked list](./30-Palindrome.py)
