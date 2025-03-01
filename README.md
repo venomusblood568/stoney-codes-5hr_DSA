@@ -34,3 +34,4 @@
 - [Palindrome linked list](./30-Palindrome.py)
 - [Merge Two sorted Lists](./31-Merg_sorted_ll.py)
 - [MinStack](./32-minstack.py)
+- [Valid Parentheses](./33-Valid_Parenthese.py)
