@@ -38,3 +38,4 @@
 - [Evalute Reverse Polish Notation](./34-eval_reverse_polish_notation.py)
 - [Stack sorting](./35-stack_sorting.py)
 - [Implement stack using Queues](./36-implement_stack_queues.py)
+- [Time needed to buy ticktes](./37-time_need_buy_ticket.py)
