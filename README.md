@@ -39,3 +39,4 @@
 - [Stack sorting](./35-stack_sorting.py)
 - [Implement stack using Queues](./36-implement_stack_queues.py)
 - [Time needed to buy ticktes](./37-time_need_buy_ticket.py)
+- [Reverse First k element of Queue](./38-Reverse_first_k_ele_queue.py)
