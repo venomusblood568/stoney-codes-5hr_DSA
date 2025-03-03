@@ -48,3 +48,5 @@
 - [Path sum](./44-Path_sum.py)
 - [Diameter of Binary Tree](./45-Diameter_bt.py)
 - [Invert Binary tree](./46-Invert_bt.py)
+- [Lowest Common Ancestor of a Binary Tree](./47-LCA.py)
+- [Search in a Binary Search Tree](./48-Search_bt.py)
