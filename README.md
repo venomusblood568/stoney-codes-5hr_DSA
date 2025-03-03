@@ -40,3 +40,5 @@
 - [Implement stack using Queues](./36-implement_stack_queues.py)
 - [Time needed to buy ticktes](./37-time_need_buy_ticket.py)
 - [Reverse First k element of Queue](./38-Reverse_first_k_ele_queue.py)
+- [Binary Tree - Avg of Levels](./39-avg_level_bt.py)
+- [Minimum Depth of Binary Tree](./40_mini_depth_bt.py)
