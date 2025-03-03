@@ -50,3 +50,5 @@
 - [Invert Binary tree](./46-Invert_bt.py)
 - [Lowest Common Ancestor of a Binary Tree](./47-LCA.py)
 - [Search in a Binary Search Tree](./48-Search_bt.py)
+- [Insert Into a Binary Search Tree](./49-Insert_into_BST.py)
+- [Converted Sorted Array to BST](./50-convert_sorted_array_BST.py)
