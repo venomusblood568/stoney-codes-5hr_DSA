@@ -44,3 +44,5 @@
 - [Minimum Depth of Binary Tree](./40_mini_depth_bt.py)
 - [Maximum Depth of Binary Tree](./41-Max_depth_bt.py)
 - [Binary Tree Level Order Traversal](./42-Level_order_traversal_bt.py)
+- [Same Tree](./43-Same_tree.py)
+- [Path sum](./44-Path_sum.py)
