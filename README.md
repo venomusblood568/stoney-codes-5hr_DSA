@@ -46,3 +46,5 @@
 - [Binary Tree Level Order Traversal](./42-Level_order_traversal_bt.py)
 - [Same Tree](./43-Same_tree.py)
 - [Path sum](./44-Path_sum.py)
+- [Diameter of Binary Tree](./45-Diameter_bt.py)
+- [Invert Binary tree](./46-Invert_bt.py)
