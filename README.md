@@ -42,3 +42,5 @@
 - [Reverse First k element of Queue](./38-Reverse_first_k_ele_queue.py)
 - [Binary Tree - Avg of Levels](./39-avg_level_bt.py)
 - [Minimum Depth of Binary Tree](./40_mini_depth_bt.py)
+- [Maximum Depth of Binary Tree](./41-Max_depth_bt.py)
+- [Binary Tree Level Order Traversal](./42-Level_order_traversal_bt.py)
